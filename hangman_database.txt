@@ -1,0 +1,40 @@
+apple,Fruit.
+orange,Fruit.
+mango,Fruit.
+banana, Fruit.
+carrot, Fruit.
+pomegranate, Fruit.
+watermelon, Fruit.
+muskmelon, Fruit.
+peer, Fruit.
+guava, Fruit.
+litchi, Fruit.
+strawberry, Fruit.
+blueberry, Fruit.
+raspberry, Fruit.
+avacado, Fruit.
+lemon, Fruit.
+blackberry, Fruit
+pineapple, Fruit.
+grapes, Fruit.
+christopher columbus, Explorer who wanted to discover India
+albert einstein, Scientist
+nikola tesla, Scientist related to charges
+issac newton, Scientist
+marie curie, Scientist related to radioactivity
+j j thomson, Scientist related to atoms.
+satyendra nath bose, Proposed one of the states of matter.
+schrodinger, Scientist with a cat.
+john dalton, Scientist related to atoms.
+toothbrush, Item found in washroom.
+toothpaste, Item found in washroom.
+shampoo, Item found in washroom.
+facewash, Item found in washroom.
+trimmer, Item found in washroom.
+mirror, Item found in washroom.
+bucket, Item found in washroom.
+shaving cream, Item found in washroom.
+hanger, Item found in washroom.
+faucet, Item found in washroom.
+detergent, Item found in washroom.
+hair dryer, Item found in washroom.
